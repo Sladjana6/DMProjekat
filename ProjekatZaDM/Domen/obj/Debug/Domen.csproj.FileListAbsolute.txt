@@ -1,0 +1,6 @@
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Domen\bin\Debug\Domen.dll
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Domen\bin\Debug\Domen.pdb
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Domen\obj\Debug\Domen.dll
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Domen\obj\Debug\Domen.pdb
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Domen\obj\Debug\Domen.csprojAssemblyReference.cache

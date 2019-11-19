@@ -1,0 +1,12 @@
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Obavestenje\bin\Debug\Obavestenje.dll
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Obavestenje\bin\Debug\Obavestenje.pdb
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Obavestenje\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Obavestenje\bin\Debug\MetroFramework.dll
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Obavestenje\obj\Debug\Obavestenje.csprojAssemblyReference.cache
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Obavestenje\obj\Debug\Obavestenje.Poruka.resources
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Obavestenje\obj\Debug\Obavestenje.Properties.Resources.resources
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Obavestenje\obj\Debug\Obavestenje.csproj.GenerateResource.cache
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Obavestenje\obj\Debug\Obavestenje.csproj.CoreCompileInputs.cache
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Obavestenje\obj\Debug\Obavestenje.csproj.CopyComplete
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Obavestenje\obj\Debug\Obavestenje.dll
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\Obavestenje\obj\Debug\Obavestenje.pdb

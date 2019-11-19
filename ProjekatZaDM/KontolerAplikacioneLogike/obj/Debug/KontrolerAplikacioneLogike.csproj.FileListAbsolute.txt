@@ -1,0 +1,9 @@
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\KontolerAplikacioneLogike\bin\Debug\KontolerAplikacioneLogike.dll
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\KontolerAplikacioneLogike\bin\Debug\KontolerAplikacioneLogike.pdb
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\KontolerAplikacioneLogike\bin\Debug\Domen.dll
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\KontolerAplikacioneLogike\bin\Debug\Domen.pdb
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\KontolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.csprojAssemblyReference.cache
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\KontolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.csproj.CoreCompileInputs.cache
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\KontolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.csproj.CopyComplete
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\KontolerAplikacioneLogike\obj\Debug\KontolerAplikacioneLogike.dll
+D:\Sladjana\Sedmi semestar\PROJEKTOVANJE SOFTVERA\Seminarski\DMProjekat\ProjekatZaDM\KontolerAplikacioneLogike\obj\Debug\KontolerAplikacioneLogike.pdb
